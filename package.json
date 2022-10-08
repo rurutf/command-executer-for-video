@@ -9,10 +9,10 @@
   "author": "Inna Pavlyutenkova",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.2.0"
+    "inquirer": "^8.2.3"
   },
   "devDependencies": {
-    "@types/inquirer": "^8.2.0",
+    "@types/inquirer": "^8.2.3",
     "@types/node": "^18.8.3"
   }
 }
